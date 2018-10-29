@@ -1,0 +1,4 @@
+ii  xfonts-100dpi                         1:1.0.4+nmu1                       all          100 dpi fonts for X
+ii  xfonts-base                           1:1.0.4+nmu1                       all          standard fonts for X
+ii  xfonts-encodings                      1:1.0.4-2                          all          Encodings for X.Org fonts
+ii  xfonts-utils                          1:7.7+4                            armhf        X Window System font utility programs
